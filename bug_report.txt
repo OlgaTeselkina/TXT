@@ -1,1 +1,10 @@
-
+Bug_report:
+Summary: Extra column on the page
+Project: Web
+Environment: test v.7-114
+Severity: Minor
+Priority: Low 
+Decription: There is an extra column on the page List of users
+Dteps to reproduce: 1. Navigate to the page www.web.com", "2. Nsvigate to the page List of users
+Expected result: The are 4 columns on the page
+Actual result: The are 4 columns on the page
